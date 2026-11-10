@@ -1,0 +1,26 @@
+{
+  "name": "宿舍巡房 APP",
+  "short_name": "巡房APP",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f5fb",
+  "theme_color": "#5d4b8a",
+  "description": "世新宿舍巡房、照片分房、壓字與本機下載工具",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
